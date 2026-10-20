@@ -1,0 +1,15 @@
+{
+  "name": "@metorial/hyperliquid",
+  "description": "Read Hyperliquid perpetual and spot market data, order books, candles, and funding, including builder-deployed (HIP-3) perp markets. Inspect any account's positions, margin, open orders, fills, and funding payments. With an API wallet, place and cancel perp orders, set leverage, and arm a dead man's switch. API wallets can trade but cannot withdraw or transfer funds.",
+  "categories": ["financial-data-and-stock-market", "apis-and-http-requests"],
+  "skills": [
+    "list perpetual and spot markets",
+    "read order books and candles",
+    "track funding rates",
+    "inspect account positions and margin",
+    "review open orders and fills",
+    "place and cancel perp orders",
+    "set leverage",
+    "schedule a cancel-all dead man's switch"
+  ]
+}
